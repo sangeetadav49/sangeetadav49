@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sangeetadav49
+- 👋 Hi, I’m @AviBhardwaj
 - 👀 I’m interested in learning new Technologies
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on Python
